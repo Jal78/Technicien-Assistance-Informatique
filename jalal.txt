@@ -1,0 +1,10 @@
+pwd :
+ls :
+cd :
+cd.. 
+cd../.. 
+clear :
+mkdir :
+touch :
+nano :
+cat :
